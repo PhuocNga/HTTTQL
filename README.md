@@ -4,3 +4,4 @@ Technologies using in this web:
 # Front-end: HTML, CSS, Boostrap, Jquery
 # Backend: Spring MVC, Hibernate
 # Database: SQL Server Management Studio & Oracle
+Link video demo:https://www.youtube.com/watch?v=u96hQuQzKMY 
